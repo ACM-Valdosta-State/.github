@@ -16,7 +16,10 @@ As an official ACM Chapter, we adhere to the ACM Code of Ethics and Professional
 
 ## Contributing to the Repository
 We welcome contributions from all members of the VSU ACM community. To contribute to this repository, please follow these steps:
-(We need to list the steps here)
+1. Create a branch of main with your name as the branch name.
+2. Make changes in your new branch.
+3. After you're done making changes, make a pull request to main.
+4. Your request will be reviewed and accepted by others.
 
 ## Contact Us
 For any inquiries, feel free to reach out to our officers or join our Discord server.
