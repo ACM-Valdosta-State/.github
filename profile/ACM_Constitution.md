@@ -81,6 +81,7 @@ Officers will meet each week in a short [Stand-up style](https://en.wikipedia.or
 2. The treasurer shall develop quarterly reports containing a list of all receipts and disbursements.
 3. The treasurer will be responsible for checking the accuracy of all the bills and invoices and paying them correctly and on time.
 4. The treasurer will perform other duties as directed by the president.
+5. The treasurer shall collect and manage the membership fee required for official membership.
 
 ### Section E: The Event Coordinator
 1. Will work with the EAB to plan and schedule events.
