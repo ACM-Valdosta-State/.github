@@ -20,7 +20,8 @@ Membership is open to any regularly enrolled VSU student who:
 ### Section B: Dues
 - The fiscal year of the organization shall be from AUG/Semester start day to (next) AUG/Semester start day (Month/Date).
 - The amount of annual dues shall be determined each year by EC (executive committee).
-- Dues shall not exceed $TBD per year.
+- A membership fee of $10 is required to become an official member of the VSU ACM.
+- Dues shall not exceed $10 per year.
 
 ## ARTICLE IV. – Voting
 ### Section A
