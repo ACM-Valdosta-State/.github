@@ -61,17 +61,20 @@ Officers will meet each week in a short [Stand-up style](https://en.wikipedia.or
 2. The president shall appoint all committee chairpersons.
 3. The president, with approval of the executive board, directs the budget.
 4. Vacancies in offices will be filled by appointment of the President with approval of the general membership.
+5. The president shall oversee the weekly officer meetings.
 
 ### Section B: The Vice President
 1. The vice president shall be the parliamentarian for the organization.
 2. The vice president shall assume the duties of the president should the office become vacant, or in the absence of the president.
 3. The vice president will keep and have available current copies of the constitution and bylaws.
 4. The vice president will be responsible making sure Event Coordinator is scheduling programs.
+5. The vice president shall assist the president in preparing the agenda for the weekly officer meetings.
 
 ### Section C: The Secretary
 1. The secretary shall be responsible for keeping the minutes (in 2 places) of all the general membership meetings and the meetings of the executive board.
 2. The secretary will provide a copy of the minutes for each officer and advisor and keep a master file.
 3. The secretary shall maintain a complete and accurate account of attendance.
+4. The secretary shall document the discussions and action items from the weekly officer meetings.
 
 ### Section D: The Treasurer
 1. The treasurer shall keep a current record of all financial transactions.
@@ -83,6 +86,7 @@ Officers will meet each week in a short [Stand-up style](https://en.wikipedia.or
 1. Will work with the EAB to plan and schedule events.
 2. Post and inform community on social media.
 3. ACM website post and use blazer link to create meeting(s).
+4. The event coordinator shall provide updates on upcoming events during the officer meetings.
 
 ### Section F: The Campus Advisor
 1. The advisor shall assist the group in their execution of roles and responsibilities.
