@@ -52,6 +52,9 @@ Any officer may be removed from his/her office by two-thirds vote of the Executi
 ### Section F
 Any vacancy which may occur in an office shall be filled by appointment by the president pending ratification at the next group meeting.
 
+### Section G
+Officers will meet each week in a short [Stand-up style](https://en.wikipedia.org/wiki/Stand-up_meeting) meeting to discuss what each officer did in the previous week, and what they plan to do in the current week.
+
 ## ARTICLE VI. – Duties of Officers Defined
 ### Section A: The President
 1. The president shall be the chief executive officer.
