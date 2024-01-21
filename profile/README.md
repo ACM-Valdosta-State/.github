@@ -8,7 +8,6 @@ The Valdosta State University ACM Chapter is a student organization dedicated to
 If you're new to the VSU ACM chapter, we highly encourage you to read our constitution to familiarize yourself with our organization's structure, policies, and procedures. If you have any questions or need further clarification, don't hesitate to ask in our Discord server or reach out to one of our officers.
 
 To access the constitution, you can find it in the Constitution folder of this repository, or you can ask for a copy in our Discord server.
-(At the time of posting this, we have not added the consitution to the repo yet).
 
 ## Code of Ethics
 As an official ACM Chapter, we adhere to the ACM Code of Ethics and Professional Conduct. This code provides a framework for making ethical decisions and promoting ethical conduct within the computing profession. All VSU ACM members are expected to uphold these principles in their studies, projects, and professional activities.
